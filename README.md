@@ -1,6 +1,9 @@
 # for-my-catalyst
 Portfolio for data scientist / machine learning practitioner Petr Morgoun: https://www.petrmorgoun.com
 
+## Tech Stack and Features
+React | TypeScript | Semantic HTML | Tailwind CSS | Vite | Node.js | Responsive web design
+
 ## Why?
 1. To help Petr Morgoun stand out.
 2. To showcase his skills, projects, and personality(?).
