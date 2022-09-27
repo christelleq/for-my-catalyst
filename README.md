@@ -30,3 +30,12 @@ React | TypeScript | Semantic HTML | Tailwind CSS | Vite | Node.js | Responsive 
 5. I will use Firebase for deployment because it's easy, free, and works. 
 6. To plan the file structure, I need to know the site's contents.
 7. Build Petr a blog to encourage his dream of writing. 
+
+### 27/09/22
+#### What I don't understand/know:
+1. src folder
+2. src > assers folder -- for images, etc?
+3. Why is index.css imported in main.tsx (and not used)?
+4. Is App.tsx the equivalent of App.jsx?
+5. How does routing work? Where do you do your routing? In App.jsx?
+6. How do I use Tailwind CSS here?
