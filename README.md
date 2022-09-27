@@ -42,4 +42,5 @@ React | TypeScript | Semantic HTML | Tailwind CSS | Vite | Node.js | Responsive 
 
 #### Actions / Achievements:
 1. Research how a Vite-React-Typescript app works: https://developer.okta.com/blog/2022/03/14/react-vite-number-converter. React components are saved as .tsx files in the src/ folder. Routing in App.tsx.
-2. Set up Tailwind CSS: https://tailwindcss.com/docs/installation, https://larainfo.com/blogs/install-setup-vite-react-typescript-tailwind-css-3.
+2. Set up Tailwind CSS: https://tailwindcss.com/docs/guides/vite, https://larainfo.com/blogs/install-setup-vite-react-typescript-tailwind-css-3.
+3. Research how to add font: https://blog.logrocket.com/how-to-use-custom-fonts-tailwind-css/#:~:text=Adding%20the%20local%20font%20to%20Tailwind&text=Using%20the%20font%2Dface%20rule,project%20via%20the%20src%20property.&text=And%20that's%20it!,installed%20font%20in%20the%20project.
