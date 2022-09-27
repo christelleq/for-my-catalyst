@@ -13,7 +13,7 @@ React | TypeScript | Semantic HTML | Tailwind CSS | Vite | Node.js | Responsive 
 ## The Journey Journal
 
 ### 26/09/22
-#### Actions / Achievements
+#### Actions / Achievements:
 1. Research whether to use JavaScript or TypeScript: TS reduces bugs (https://www.youtube.com/watch?v=ydkQlJhodio&t=395s).
 2. Design research: examples of data analyst portfolio websites (https://www.youtube.com/watch?v=1T7ExqKejFg), atomic design (https://bradfrost.com/blog/post/atomic-web-design/).
 3. Research how to structure React files: you can group files by features or file types, recommendation: <=4 folder nesting, https://reactjs.org/docs/faq-structure.html.
@@ -34,8 +34,12 @@ React | TypeScript | Semantic HTML | Tailwind CSS | Vite | Node.js | Responsive 
 ### 27/09/22
 #### What I don't understand/know:
 1. src folder
-2. src > assers folder -- for images, etc?
+2. src > assets folder -- for images, etc?
 3. Why is index.css imported in main.tsx (and not used)?
 4. Is App.tsx the equivalent of App.jsx?
-5. How does routing work? Where do you do your routing? In App.jsx?
+5. How does routing work? Where do you do your routing? In App.tsx?
 6. How do I use Tailwind CSS here?
+
+#### Actions / Achievements:
+1. Research how a Vite-React-Typescript app works: https://developer.okta.com/blog/2022/03/14/react-vite-number-converter. React components are saved as .tsx files in the src/ folder. Routing in App.tsx.
+2. Set up Tailwind CSS: https://tailwindcss.com/docs/installation, https://larainfo.com/blogs/install-setup-vite-react-typescript-tailwind-css-3.
