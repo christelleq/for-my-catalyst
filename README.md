@@ -2,7 +2,7 @@
 Portfolio for data scientist / machine learning practitioner Petr Morgoun: https://www.petrmorgoun.com
 
 ## Tech Stack and Features
-React | TypeScript | Semantic HTML | Tailwind CSS | Vite | Node.js | Responsive web design
+React | TypeScript | Semantic HTML | Tailwind CSS | Vite | Node.js | Responsive web design | Git | GitHub
 
 ## Why?
 1. To help Petr Morgoun stand out.
