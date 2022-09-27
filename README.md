@@ -20,6 +20,7 @@ React | TypeScript | Semantic HTML | Tailwind CSS | Vite | Node.js | Responsive 
 4. Asked client to think about the design and content of their portfolio website.
 5. Research alternatives to React: skimmed https://www.spec-india.com/blog/react-alternatives.
 6. 2/3 of issue #1.
+7. Created Vite app, after creating creating React app (and realising React comes with Webpack which is not necessary as Vite is an alternative to Webpack).
 
 #### Thoughts:
 1. TypeScript reduces bugs, but is it necessary for a simple website? It could be helpful, especially to make sure my props are of the right type. Also, it's something new to learn. I will use TypeScript.
